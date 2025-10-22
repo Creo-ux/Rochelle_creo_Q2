@@ -1,0 +1,28 @@
+.h1 {
+font-family: 'Roboto', sans-serif;
+sro: url('https://fonts.google.com/share?selection.family=Roboto:ital,wght@0,100..900;1,100..900');
+text-align: justify;
+
+}
+
+.intro {
+font-family: 'lora', serif;
+sro: url('https://www.1001fonts.com/lora-font.html');
+font-size: 18px;
+font-weight: bold;
+
+}
+
+.quote {
+font-family: 'Georgia', serif;
+font-style: italic;
+font-size: 20px;
+text-decoration: underline;
+
+}
+
+.note{
+font-size: 14px;
+text-transform: uppercase;
+letter-spacing: 2px;
+}

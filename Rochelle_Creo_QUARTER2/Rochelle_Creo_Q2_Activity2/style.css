@@ -1,0 +1,30 @@
+.FOX{
+    background-color: orange;
+    border: 5px solid rgba(255, 255, 0, 0.452);
+    padding: 2px;       
+    /* border-style: dotted; */
+    background: #afffee;
+    text-align: center;
+
+    
+
+}
+.FAXSUSAN{
+    background: #fff3af;
+    text-align: center;
+    width: 300px;
+    height: 200px;
+    
+}
+.Paragraph{
+    border:15px solid #fffeafc4;
+    border-style: dotted ;
+    background: yellow;
+   text-align: center;
+    width: 280px;
+    height: 260px;
+    font-family: serif;
+    overflow: scroll;
+    justify-content: center;
+    
+}
